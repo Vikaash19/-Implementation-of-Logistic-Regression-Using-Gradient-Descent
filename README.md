@@ -15,6 +15,9 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 ```
+Program to implement the the Logistic Regression Using Gradient Descent.
+Developed by: Vikaash K S
+RegisterNumber: 212223240179
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -84,6 +87,8 @@ print(y_prednew)
 ![exp 5 op4](https://github.com/Vikaash19/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148514589/b9b4c4bf-c563-4e20-b629-5444d0e62d66)
 
 ![exp 5 op5](https://github.com/Vikaash19/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148514589/fca05324-e1f8-4538-961f-84e109c50011)
+
+![exp 5 op6](https://github.com/Vikaash19/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148514589/99d7c850-224f-4709-849c-8c1a2903bd11)
 
 ![exp 5 op6](https://github.com/Vikaash19/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148514589/99d7c850-224f-4709-849c-8c1a2903bd11)
 
