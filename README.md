@@ -115,8 +115,6 @@ np.mean(predict(res.x,X)==y)
 */
 ```
 
-
-
 ## Output:
 #### Array Value of x
 ![Screenshot 2023-05-11 155230](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/033e44c7-01d8-4694-af58-e47e586bc326)
