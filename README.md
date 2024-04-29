@@ -37,7 +37,6 @@ d.dtypes
 d["gender"]=d["gender"].cat.codes
 d["ssc_b"]=d["ssc_b"].cat.codes
 ```
-
 ```
 d["hsc_b"]=d["hsc_b"].cat.codes
 d["degree_t"]=d["degree_t"].cat.codes
@@ -79,6 +78,8 @@ print(y_prednew)
 xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
+
+
 
 ```
 ## Output:
