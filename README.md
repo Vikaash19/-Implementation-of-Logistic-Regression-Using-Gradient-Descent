@@ -25,8 +25,6 @@ d=pd.read_csv("/content/Placement_Data.csv")
 d
 d=d.drop("sl_no",axis=1)
 d=d.drop("salary",axis=1)
-```
-```
 d["gender"]=d["gender"].astype("category")
 d["ssc_b"]=d["ssc_b"].astype("category")
 d["hsc_b"]=d["hsc_b"].astype("category")
@@ -35,6 +33,8 @@ d["workex"]=d["workex"].astype("category")
 d["specialisation"]=d["specialisation"].astype("category")
 d["status"]=d["status"].astype("category")
 d["hsc_s"]=d["hsc_s"].astype("category")
+```
+```
 d.dtypes
 d["gender"]=d["gender"].cat.codes
 d["ssc_b"]=d["ssc_b"].cat.codes
