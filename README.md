@@ -36,11 +36,11 @@ d["hsc_s"]=d["hsc_s"].astype("category")
 d.dtypes
 d["gender"]=d["gender"].cat.codes
 d["ssc_b"]=d["ssc_b"].cat.codes
+```
+```
 d["hsc_b"]=d["hsc_b"].cat.codes
 d["degree_t"]=d["degree_t"].cat.codes
 d["workex"]=d["workex"].cat.codes
-```
-```
 d["specialisation"]=d["specialisation"].cat.codes
 d["status"]=d["status"].cat.codes
 d["hsc_s"]=d["hsc_s"].cat.codes
