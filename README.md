@@ -81,6 +81,8 @@ print(y_prednew)
 
 
 
+
+
 ```
 ## Output:
 ![exp 5 op1](https://github.com/Vikaash19/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148514589/2c2dbe27-f772-421e-89e5-7fd0d61c82d4)
