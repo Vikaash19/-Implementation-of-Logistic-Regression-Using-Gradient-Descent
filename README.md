@@ -25,6 +25,8 @@ d=pd.read_csv("/content/Placement_Data.csv")
 d
 d=d.drop("sl_no",axis=1)
 d=d.drop("salary",axis=1)
+```
+```
 d["gender"]=d["gender"].astype("category")
 d["ssc_b"]=d["ssc_b"].astype("category")
 d["hsc_b"]=d["hsc_b"].astype("category")
