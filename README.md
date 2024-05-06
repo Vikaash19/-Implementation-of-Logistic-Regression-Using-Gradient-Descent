@@ -18,9 +18,6 @@ step-1:Start
 <br>step-5:Define Loss Function and Gradient Descent: Define loss function using sigmoid output and implement gradient descent to minimize loss.
 <br>step-6:Prediction and Evaluation: Use trained parameters to predict on dataset, calculate accuracy, and optionally predict placement status of new data points.
 <br>step-7:Stop
-<br>
-<br>
-<br>
 
 ## Program:
 
@@ -103,8 +100,8 @@ print(y_prednew)
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/b6a86619-04fe-4560-a310-194c80aa728a)
 
 #### Array value of Y:
+![exp 5 y array1](https://github.com/Vikaash19/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/148514589/b9a1cae0-262d-4379-ad5a-345140718846)
 
-![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/a7b6a576-f916-4792-a189-9df2e8ca530f)
 
 #### Accuracy
 
