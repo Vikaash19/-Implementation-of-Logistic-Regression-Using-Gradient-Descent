@@ -37,6 +37,7 @@ data["degree_t"]=data["degree_t"].astype('category')
 data["workex"]=data["workex"].astype('category')
 ```
 ```
+
 data["specialisation"]=data["specialisation"].astype('category')
 data["status"]=data["status"].astype('category')
 data["hsc_s"]=data["hsc_s"].astype('category')
@@ -83,6 +84,7 @@ print(y_prednew)
 xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
+
 ```
 ## Output:
 
