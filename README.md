@@ -18,6 +18,9 @@ step-1:Start
 <br>step-5:Define Loss Function and Gradient Descent: Define loss function using sigmoid output and implement gradient descent to minimize loss.
 <br>step-6:Prediction and Evaluation: Use trained parameters to predict on dataset, calculate accuracy, and optionally predict placement status of new data points.
 <br>step-7:Stop
+<br>
+<br>
+<br>
 
 ## Program:
 
