@@ -91,40 +91,26 @@ print(y_prednew)
 ```
 ## Output:
 
-### data columns
+#### data columns
 
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/3aec9c46-c885-42bb-8b45-215ac5d6274f)
 
-### data after encoding
+#### data after encoding
 
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/b6a86619-04fe-4560-a310-194c80aa728a)
 
-
-```
-
-
-
-
-
-
-```
-
-### Array value of Y:
+#### Array value of Y:
 
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/a7b6a576-f916-4792-a189-9df2e8ca530f)
 
-
-
-### Accuracy
+#### Accuracy
 
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/12a41cc4-18b2-4375-a7eb-9d1c4a554cc5)
-
-
   
-### New accuracy
+#### New accuracy
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/36fd6f69-d021-4489-b46a-ab4f68f410ea)
 
-### New accuracy
+#### New accuracy
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/36fd6f69-d021-4489-b46a-ab4f68f410ea)
 
 ## Result:
