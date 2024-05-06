@@ -100,6 +100,9 @@ print(y_prednew)
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/b6a86619-04fe-4560-a310-194c80aa728a)
 
 
+
+<br><br>
+
 ### Array value of Y:
 
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/a7b6a576-f916-4792-a189-9df2e8ca530f)
